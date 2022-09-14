@@ -1,0 +1,7 @@
+﻿  现代密码学基础技能.c
+D:\XDU\大数据安全与隐私\实验1\现代密码学基础技能\现代密码学基础技能.c(11,25): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\XDU\大数据安全与隐私\实验1\现代密码学基础技能\现代密码学基础技能.c(36,25): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\XDU\大数据安全与隐私\实验1\现代密码学基础技能\现代密码学基础技能.c(38,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\XDU\大数据安全与隐私\实验1\现代密码学基础技能\现代密码学基础技能.c(97,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\XDU\大数据安全与隐私\实验1\现代密码学基础技能\现代密码学基础技能.c(101,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  现代密码学基础技能.vcxproj -> D:\XDU\大数据安全与隐私\实验1\现代密码学基础技能\Debug\现代密码学基础技能.exe
